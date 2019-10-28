@@ -4,4 +4,7 @@
 * Primavera
 * Vegetariano
 
+# Fritti
+
+
 Paninoteca Padovana
