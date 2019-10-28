@@ -2,3 +2,4 @@
 
 #panini:
 * Primavera
+* Vegetariano
